@@ -3,5 +3,5 @@
 // Creando una FX
 function name
 {
-	var n;
+	//var n;
 }
