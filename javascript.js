@@ -4,4 +4,6 @@
 function name
 {
 	var n;
+	// cambios agregados para master freenbox
+	var suma = 2*n;
 }
